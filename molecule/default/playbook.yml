@@ -16,4 +16,4 @@
       changed_when: false
 
   roles:
-    - role: /root/.ansible/roles/geerlingguy.nginx
+    - role: geerlingguy.nginx
